@@ -2,3 +2,5 @@ song sing song
 do did done
 break broke broken
 eat ate eaten
+be was were been
+drink drank drunk
