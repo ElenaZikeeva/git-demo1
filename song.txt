@@ -4,3 +4,5 @@ break broke broken
 eat ate eaten
 be was were been
 drink drank drunk
+speak spoke spoken
+draw drow drow
