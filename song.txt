@@ -14,3 +14,7 @@ new content
 drink drank drunk
 speak spoke spoken
 draw drow drow
+
+song sing song
+do did done
+break broke broken
