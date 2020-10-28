@@ -20,3 +20,5 @@ song sing song
 do did done
 break broke broken
 eat ate eaten
+
+become became become
